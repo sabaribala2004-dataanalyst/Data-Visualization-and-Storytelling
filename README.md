@@ -39,6 +39,7 @@ The objective of this project is to analyze Diwali Sales Data to understand cust
   - Female customers dominate with ₹74.3M vs Male ₹31.9M.
   - Married customers spend more (₹62.1M) than unmarried (₹44.1M).
 - Top Categories: Food (₹33.9M), Clothing & Apparel (₹16.5M), Electronics (₹15.6M).
+  
 
 ## 📌 Page 2 – Customer & Occupation Insights
 
@@ -49,6 +50,7 @@ The objective of this project is to analyze Diwali Sales Data to understand cust
 - Top Customers:Vishakha (₹3.82L), Sudevi (₹2.87L), Vasudev (₹2.81L), Neola (₹2.75L).
 - Top Occupations:IT Sector (₹14.76M), Healthcare (₹13.03M), Aviation (₹12.6M), Banking (₹10.77M).
 - Customers in IT, Healthcare, and Aviation are the biggest spenders during Diwali sales
+  
 
 ## 📌 Page 3 – Geographical Insights & Summary
 
@@ -60,10 +62,12 @@ The objective of this project is to analyze Diwali Sales Data to understand cust
 - Top Zone: Central India leads with ₹41.6M.
 - Weak Zone: Eastern India lags behind with only ₹7M.
 - Regional Pattern: North & Central India show the strongest sales performance.
+  
 
 ## 📌 Page 4 – Overall Business Performance Summary
 
 ![Page 04](https://github.com/user-attachments/assets/891ae21c-e30b-4928-8c38-26d6f465b9a3)
+
 
 
 ## 🎆 Final Conclusion
