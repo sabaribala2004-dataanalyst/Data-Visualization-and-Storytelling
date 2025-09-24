@@ -23,4 +23,19 @@ The objective of this project is to analyze Diwali Sales Data to understand cust
   - Overall Business Performance Summary
 - Added filters, drill-through, and tooltips for deeper analysis.
 
-## 📊 Dashboard Interaction <a href=""> View Dashboard Main File </a>
+## 📊 Dashboard Interaction <a href="https://github.com/sabaribala2004-dataanalyst/Data-Visualization-and-Storytelling/blob/main/Diwali-Sales-Dashboard.pbix"> View Dashboard Main File </a>
+
+## 📌 Page 1 – Overall Business Performance
+
+![Page 01](https://github.com/user-attachments/assets/8e249e16-26ac-4783-8eb9-14fb94442caa)
+
+  ## Key Insights:
+
+- Total Sales: ₹106.25M | Orders: 27.98K | Customers: 3.75K | Avg Order Value: ₹3.8K
+- Top States: Uttar Pradesh (₹19.4M), Maharashtra (₹14.4M), Karnataka (₹13.5M).
+- Top Zone: Central Zone leads with ₹41.6M sales.
+- Demographics:
+  - Age group 26–35 contributes the most (₹42.6M).
+  - Female customers dominate with ₹74.3M vs Male ₹31.9M.
+  - Married customers spend more (₹62.1M) than unmarried (₹44.1M).
+- Top Categories: Food (₹33.9M), Clothing & Apparel (₹16.5M), Electronics (₹15.6M).
