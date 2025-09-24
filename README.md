@@ -39,3 +39,45 @@ The objective of this project is to analyze Diwali Sales Data to understand cust
   - Female customers dominate with ₹74.3M vs Male ₹31.9M.
   - Married customers spend more (₹62.1M) than unmarried (₹44.1M).
 - Top Categories: Food (₹33.9M), Clothing & Apparel (₹16.5M), Electronics (₹15.6M).
+
+## 📌 Page 2 – Customer & Occupation Insights
+
+![Page 02](https://github.com/user-attachments/assets/8b751de3-7473-4274-a0c1-981825ae3f87)
+
+  ## Key Insights:
+
+- Top Customers:Vishakha (₹3.82L), Sudevi (₹2.87L), Vasudev (₹2.81L), Neola (₹2.75L).
+- Top Occupations:IT Sector (₹14.76M), Healthcare (₹13.03M), Aviation (₹12.6M), Banking (₹10.77M).
+- Customers in IT, Healthcare, and Aviation are the biggest spenders during Diwali sales
+
+## 📌 Page 3 – Geographical Insights & Summary
+
+![Page 03](https://github.com/user-attachments/assets/01f5fe09-a24d-4d25-9706-4fe49cd6f2c2)
+
+  ## Key Insights:
+
+- Top State: Uttar Pradesh contributes the most with ₹19.4M.
+- Top Zone: Central India leads with ₹41.6M.
+- Weak Zone: Eastern India lags behind with only ₹7M.
+- Regional Pattern: North & Central India show the strongest sales performance.
+
+## 📌 Page 4 – Overall Business Performance Summary
+
+![Page 04](https://github.com/user-attachments/assets/891ae21c-e30b-4928-8c38-26d6f465b9a3)
+
+
+## 🎆 Final Conclusion
+
+- ✨ The Diwali Sales Analysis highlights that:
+  - Central & Northern India are high-potential regions.
+  - Married female customers aged 26–35 are the most valuable segment.
+  - Food, Clothing, and Electronics are the top-selling categories.
+  - IT, Healthcare, and Aviation professionals drive maximum festive spending.
+
+- 👉 Business strategies should focus on:
+  - Expanding festive campaigns in Central & Northern India.
+  - Launching targeted offers for married women (26–35 age group).
+  - Strengthening promotions for Food, Clothing & Apparel, and Electronics.
+  - Special Diwali bundles/offers for high-spending occupations (IT, Healthcare, Aviation).
+
+
