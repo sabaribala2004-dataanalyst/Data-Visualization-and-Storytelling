@@ -29,7 +29,7 @@ The objective of this project is to analyze Diwali Sales Data to understand cust
 
 ![Page 01](https://github.com/user-attachments/assets/8e249e16-26ac-4783-8eb9-14fb94442caa)
 
-     ## Key Insights:
+   ## Key Insights:
 
 - Total Sales: ₹106.25M | Orders: 27.98K | Customers: 3.75K | Avg Order Value: ₹3.8K
 - Top States: Uttar Pradesh (₹19.4M), Maharashtra (₹14.4M), Karnataka (₹13.5M).
